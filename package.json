@@ -1,0 +1,26 @@
+{
+  "name": "plugnative-ionicv2-sidemenu",
+  "version": "1.0.1",
+  "description": "PlugNative Ionic V2 SIDE MENU APP Starter.",
+  "main": "app.js",
+  "scripts": {
+    "test": "ionic serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlugNative-Ionic/plugnative-ionicv2-sidemenu.git"
+  },
+	
+	
+  "keywords": [
+    "PlugNative",
+    "Ionicv2",
+    "SideMenu"
+  ],
+  "author": "DILEEP YADAV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PlugNative-Ionic/plugnative-ionicv2-sidemenu/issues"
+  },
+  "homepage": "https://github.com/PlugNative-Ionic/plugnative-ionicv2-sidemenu#readme"
+}
